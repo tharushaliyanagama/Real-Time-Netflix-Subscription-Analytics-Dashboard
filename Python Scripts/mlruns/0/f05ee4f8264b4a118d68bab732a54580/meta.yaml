@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Netflix Project/Python Scripts/mlruns/0/f05ee4f8264b4a118d68bab732a54580/artifacts
+end_time: 1754245542217
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f05ee4f8264b4a118d68bab732a54580
+run_name: righteous-wasp-751
+run_uuid: f05ee4f8264b4a118d68bab732a54580
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754245521381
+status: 3
+tags: []
+user_id: tharu

@@ -1,0 +1,16 @@
+# Ignore Conda environment
+venv/
+netflix_env/
+
+# Ignore large data files or generated outputs
+data_lake/
+ml_models/
+mlruns/
+*.pkl
+
+# Ignore Python bytecode
+__pycache__/
+
+# Ignore OS files
+*.log
+*.txt
