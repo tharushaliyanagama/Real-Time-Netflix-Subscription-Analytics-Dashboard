@@ -7,10 +7,13 @@ data_lake/
 ml_models/
 mlruns/
 *.pkl
+*.parquet
 
 # Ignore Python bytecode
 __pycache__/
 
-# Ignore OS files
+# Ignore OS files and large CSVs
 *.log
 *.txt
+netflix price in different countries.csv
+Netflix subscription fee Dec-2021.csv
