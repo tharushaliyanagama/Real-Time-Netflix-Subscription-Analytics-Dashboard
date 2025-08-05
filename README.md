@@ -80,9 +80,9 @@ Netflix-Analytics-Dashboard/
 │   ├── subscription_predictor.py # MLflow-tracked model
 │   ├── netflix price in different countries.csv # Sample data
 │   ├── Netflix subscription fee Dec-2021.csv # Additional data
-│   ├── data_lake/         # Parquet outputs (ignored)
+│   ├── data_lake/         # Parquet outputs 
 │   ├── ml_models/         # Model files (ignored)
-│   └── mlruns/            # MLflow experiment data (ignored)
+│   └── mlruns/            # MLflow experiment data 
 ```
 
 ## Usage
