@@ -63,9 +63,9 @@ cd Netflix-Analytics-Dashboard
 ## Project Structure
 ```
 Netflix-Analytics-Dashboard/
-├── .gitignore              # Excludes environment and large files
-├── README.md               # This file
-├── requirements.txt        # Dependency list
+├── .gitignore              
+├── README.md             
+├── requirements.txt        
 ├── docker-compose.yml      # DynamoDB configuration
 ├── Python Scripts/
 │   ├── batch_ingestion.py  # Batch data ingestion
@@ -78,11 +78,11 @@ Netflix-Analytics-Dashboard/
 │   ├── Create_table.py    # DynamoDB table creation
 │   ├── ml_model.py        # Initial ML model
 │   ├── subscription_predictor.py # MLflow-tracked model
-│   ├── netflix price in different countries.csv # Sample data
-│   ├── Netflix subscription fee Dec-2021.csv # Additional data
+│   ├── netflix price in different countries.csv 
+│   ├── Netflix subscription fee Dec-2021.csv 
 │   ├── data_lake/         # Parquet outputs 
-│   ├── ml_models/         # Model files (ignored)
-│   └── mlruns/            # MLflow experiment data 
+│   ├── ml_models/         
+│   └── mlruns/            
 ```
 
 ## Usage
