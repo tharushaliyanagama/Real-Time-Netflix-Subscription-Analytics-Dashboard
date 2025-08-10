@@ -1,7 +1,7 @@
 # Real-Time Netflix Subscription Analytics Dashboard
 
 ## Overview
-This project is a Real-Time Netflix Subscription Analytics Dashboard designed to process, store, and visualize Netflix subscription cost data across different countries. It leverages modern data engineering tools (Apache Beam, PySpark), real-time storage (DynamoDB), interactive visualization (Streamlit), and machine learning (MLflow, scikit-learn) to provide actionable insights and predictive analytics. Developed as part of an internship project, this repository demonstrates skills in data pipeline development, cloud integration, and ML model deployment.
+This project is a Real-Time Netflix Subscription Analytics Dashboard designed to process, store, and visualize Netflix subscription cost data across different countries. It leverages modern data engineering tools (Apache Beam, PySpark), real-time storage (DynamoDB), interactive visualization (Streamlit), and machine learning (MLflow, scikit-learn) to provide actionable insights and predictive analytics.This repository demonstrates skills in data pipeline development, cloud integration, and ML model deployment.
 
 ## Features
 - Real-Time Data Processing: Uses Apache Beam for streaming CSV data into Parquet files.
